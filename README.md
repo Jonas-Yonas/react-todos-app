@@ -1,4 +1,4 @@
-# This is a real world ToDos' React crash course built with React, and json-server,
+# This is a real world ToDos' React crash course built with React.JS, and json-server,
 
 # json-server : https://www.npmjs.com/package/json-server is being used to have a full fake REST APIs.
 
